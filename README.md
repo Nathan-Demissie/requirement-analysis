@@ -34,3 +34,28 @@ Key Activities in Requirement Analysis
             Requirement Analysis and Modeling: Examine requirements for feasibility, consistency, and completeness; use diagrams to visualize system behavior.
             
             Requirement Validation: Confirm that documented requirements accurately reflect stakeholder needs and are ready for implementation.
+
+
+Types of Requirements
+
+            Functional Requirements
+            Definition: Specific behaviors or functions the system must perform.
+            
+            Examples for Booking Management System:
+            
+            Users can create, view, and cancel bookings.
+            
+            Admins can manage booking schedules and availability.
+            
+            System sends confirmation emails after successful booking.
+            
+            Non-functional Requirements
+            Definition: Quality attributes that define how the system performs.
+
+            Examples:
+            
+            The system must load booking pages within 2 seconds.
+            
+            Data must be encrypted during transmission.
+            
+            The platform should support up to 10,000 concurrent users.
