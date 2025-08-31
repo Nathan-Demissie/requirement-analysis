@@ -76,6 +76,18 @@ Use Case Diagrams
             
             Planning Aid: Guides development and testing by highlighting key functionalities.
 
-[alx-booking-uc.png](https://drive.google.com/file/d/1GEpWgvg8NmNhbA2eBdh26VfHNTZPFrXh/view)
+            [alx-booking-uc.png](https://drive.google.com/file/d/1GEpWgvg8NmNhbA2eBdh26VfHNTZPFrXh/view)
 
+Acceptance Criteria.
 
+            Importance of Acceptance Criteria in Requirement Analysis
+            Acceptance Criteria are the conditions that a software feature must meet to be accepted by stakeholders. They define the boundaries of a user story or requirement and ensure that everyone—developers, testers, and clients—has a shared understanding of what “done” looks like.
+            
+            Why They Matter:
+            Clarity: Prevents ambiguity by specifying exact expectations.
+            
+            Testability: Enables QA teams to verify if a feature works as intended.
+            
+            Alignment: Ensures the final product meets business and user goals.
+            
+            Scope Control: Helps avoid feature creep by locking down requirements.
