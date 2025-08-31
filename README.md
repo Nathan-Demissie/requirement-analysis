@@ -59,3 +59,23 @@ Types of Requirements
             Data must be encrypted during transmission.
             
             The platform should support up to 10,000 concurrent users.
+
+Use Case Diagrams
+
+            What Are Use Case Diagrams?
+            Use Case Diagrams are visual representations that show how users (called actors) interact with a system to achieve specific goals (use cases). They’re part of UML (Unified Modeling Language) and help outline system functionality from the user's perspective.
+            
+            Benefits of Use Case Diagrams
+            Clarity: Simplifies complex requirements into easy-to-understand visuals.
+            
+            Communication: Bridges understanding between technical teams and stakeholders.
+            
+            Scope Definition: Helps identify system boundaries and user roles.
+            
+            Requirement Validation: Ensures all user interactions are captured and accounted for.
+            
+            Planning Aid: Guides development and testing by highlighting key functionalities.
+
+## Use Case Diagram
+
+![Use Case Diagram for Booking Management System](alx-booking-uc.png)
