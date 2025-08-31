@@ -78,4 +78,5 @@ Use Case Diagrams
 
 ## Use Case Diagram
 
-![Use Case Diagram for Booking Management System](alx-booking-uc.png)
+https://drive.google.com/file/d/1GEpWgvg8NmNhbA2eBdh26VfHNTZPFrXh/view
+
